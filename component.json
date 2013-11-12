@@ -1,0 +1,6 @@
+{
+  "name": "superagent-oauth",
+  "version": "0.2.3",
+  "main": "superagent-oauth.js",
+  "scripts": [ "superagent-oauth.js" ]
+}
